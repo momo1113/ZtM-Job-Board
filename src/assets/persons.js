@@ -14871,6 +14871,22 @@ export const data = {
                state: "Rivers",
                country: "Nigeria",
              },
-           },        
+           },   
+           {
+            id: uuidv4(),
+            name: "Momo Sun",
+            img:"https://github.com/momo1113.png",
+            links: {
+              website: "https://portfolio-a0f44.web.app/",
+              linkedin: "https://www.linkedin.com/in/momo-sun-626766179/",
+              github: "https://github.com/momo1113",
+            },
+            jobTitle: "Software engineer || Web Developer",
+            location: {
+              city: "San Francisco",
+              state: "California",
+              country: "United States",
+            },
+          },      
          ],
        }
